@@ -1,0 +1,96 @@
+
+body {
+  
+  background-size: cover;
+}
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -9999;
+}
+
+.nav{
+background: rgba(0,0,0,0.7);
+width: 1900px;
+height: 50px;
+}
+ul {
+padding-top: 13px;
+
+}
+ul li{
+text-align: center;
+font-family: 'Underdog', cursive;
+font-size: 23px;
+list-style: none;
+display: inline;
+padding-left: 60px;
+padding-right: 60px;
+padding-bottom: 10px;
+padding-top: 13px;
+margin-left:118px;
+}
+ul li:nth-child(n):hover
+{
+  background-color: rgba(2,2,2,0.9);
+}
+a, a:visited
+{
+  color:#8acc59; text-decoration: none;
+}
+
+.Illidan_history{
+font-family: 'Underdog';
+background: rgba(0,0,0,0.9);
+color:#8acc59;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 3px;
+padding-bottom: 3px;
+margin-left: 300px;
+margin-right: 300px;
+margin-top:50px;
+}
+.Illidan_history img{
+  margin-top: 30px;
+}
+
+.Illidari_his{
+  font-family: 'Underdog';
+background: rgba(0,0,0,0.9);
+color:#8acc59;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 3px;
+padding-bottom: 3px;
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 50px;
+}
+.Illidari_his img{
+margin-top: 30px;
+}
+
+
+.container {
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    margin: -300px 0 0 -510px;
+    border: 10px;
+    border-color: #13F02D:;
+      }
+
+
+.video_Ili{
+padding-top: 40px;
+
+}
+
+
